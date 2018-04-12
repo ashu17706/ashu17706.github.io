@@ -1,0 +1,29 @@
+{
+  "name": "ashutoshtripathi.me",
+  "version": "0.0.1",
+  "description": "source code for ashutoshtripathi.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu17706/ashu17706.github.io.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "portfolio"
+  ],
+  "author": "ashu17706",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu17706/ashu17706.github.io/issues"
+  },
+  "homepage": "https://github.com/ashu17706/ashu17706.github.io#readme",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
