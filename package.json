@@ -4,7 +4,9 @@
   "description": "source code for ashutoshtripathi.me",
   "main": "index.js",
   "scripts": {
-    "test": "yarn run test"
+    "dev": "npx next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
